@@ -1,4 +1,4 @@
-## <p align=center>👋🏻 Hi, I’m Pedro from Prevenir Assitencial</p>
+## <p align=center>👋🏻 Hi, I’m Pedro from Prevenir Assistencial</p>
 
 <br>
 
