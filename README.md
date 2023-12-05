@@ -22,6 +22,10 @@
 <br>
 <br>
 <br>
+
+<p align="center">
+  <img src="https://github.com/Pedro-Prev/Pedro-Prev/assets/153015492/f0cc4232-6311-48f4-9007-989ec7b05b70" />
+</p>
 <p align="center">
 Success is the sum of small efforts repeated day after day
 </p>
