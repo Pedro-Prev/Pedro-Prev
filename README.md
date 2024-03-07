@@ -2,13 +2,14 @@
 
 <br>
 
-💻 TI Analyst from Belo Horizonte - MG - Brazil.
+💻 IT Analyst from Belo Horizonte - MG - Brazil.
 
 🔭 I’m currently working at Prevenir Assistencial LTDA.
 
-💬 My main interests are C#, Angular, Javascript and UX Design.
+💬 My main interests are C#, Javascript, Angular and UX Design.
 
-📫 How to reach me pedro.braga@prevenirassistencial.com.br
+📫 How to reach me:
+- pedro.braga@prevenirassistencial.com.br
 
 ⚡ Always keen on 🍖 Churrasco, 🧀 Pão de Queijo, 🎮 Games, ⚔️ D&D, 🍿 Movies and TV Series.
 
