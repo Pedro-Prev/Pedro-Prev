@@ -15,18 +15,18 @@
 
 <br>
 
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,ts,react,angular,mysql,azure" />
   </a>
 </p>
-<br>
-<br>
-<br>
 
 <p align="center">
-  <img src="https://github.com/Pedro-Prev/Pedro-Prev/assets/153015492/f0cc4232-6311-48f4-9007-989ec7b05b70" />
+  <img src="https://github.com/Pedro-Prev/Pedro-Prev/blob/main/Dev.gif"/>
 </p>
+
 <p align="center">
 Success is the sum of small efforts repeated day after day
 </p>
