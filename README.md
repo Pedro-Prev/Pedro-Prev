@@ -4,7 +4,7 @@
 
 💻 IT Analyst from Belo Horizonte - MG - Brazil.
 
-🔭 I’m currently working at Prevenir Assistencial LTDA.
+💼 I’m currently working at Prevenir Assistencial LTDA.
 
 💬 My main interests are C#, Javascript, Angular and UX Design.
 
