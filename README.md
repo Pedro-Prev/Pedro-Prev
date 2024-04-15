@@ -1,17 +1,17 @@
-## <p align=center>👋🏻 Hi, I’m Pedro from Prevenir Assistencial</p>
+## <p align=center>👋🏻 Olá, sou o Pedro da Prevenir Assistencial</p>
 
 <br>
 
-💻 IT Analyst from Belo Horizonte - MG - Brazil.
+💻 Analista de Sistemas residindo em Belo Horizonte - MG - Brasil.
 
-💼 I’m currently working at Prevenir Assistencial LTDA.
+💼 Atualmente trabalhando na Prevenir Assistencial LTDA.
 
-💬 My main interests are C#, Javascript, Angular and UX Design.
+💬 Meus principais interesses são, C#, React, Javascript, Angular and UX Design.
 
-📫 How to reach me:
+📫 Como me contatar:
 - pedro.braga@prevenirassistencial.com.br
 
-⚡ Always keen on 🍖 Churrasco, 🧀 Pão de Queijo, 🎮 Games, ⚔️ D&D, 🍿 Movies and TV Series.
+⚡ Sempre interessado em 🍖 Churrasco, 🧀 Pão de Queijo, 🎮 Games, ⚔️ D&D, 🍿 Filmes e Séries.
 
 <br>
 
@@ -28,5 +28,5 @@
 </p>
 
 <p align="center">
-Success is the sum of small efforts repeated day after day
+O sucesso é a soma de pequenos esforços repetidos dia após dia
 </p>
