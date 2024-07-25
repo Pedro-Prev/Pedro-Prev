@@ -6,7 +6,7 @@
 
 💼 Atualmente trabalhando na Prevenir Assistencial LTDA.
 
-💬 Meus principais interesses são, C#, React, Javascript, Angular and UX Design.
+💬 Meus principais interesses são, C#, React, Javascript, SQL and UX Design.
 
 📫 Como me contatar:
 - pedro.braga@prevenirassistencial.com.br
